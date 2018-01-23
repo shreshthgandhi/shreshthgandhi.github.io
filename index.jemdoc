@@ -1,0 +1,11 @@
+# jemdoc: menu{MENU}{index.html}
+= Shreshth Gandhi
+
+~~~
+{}{img_left}{Shreshth_suit.jpg}{Shreshth Gandhi}{320px}{240px}{index.html}
+I am a M.A.Sc student in ECE at the [https://www.utoronto.ca/ University of Toronto] co-advised by [http://www.psi.toronto.edu/~frey/ Prof. Brendan Frey] and 
+[http://www.cs.toronto.edu/~duvenaud/ Prof. David Duvenaud]. I am currently working on applying deep learning techniques to genomics and computational biology data. 
+I am also interested in generative models and potentially applying them to genomic datasets. I recived by Bachelor's degree from the [http://www.iitk.ac.in/ Indian Institute of Technology, Kanpur].
+~~~
+
+
